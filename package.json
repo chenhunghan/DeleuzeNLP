@@ -1,0 +1,14 @@
+{
+  "name": "nlpdeleuze",
+  "version": "1.0.0",
+  "description": "Applying NLP methods on texts by Deleuze",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "Hung-Han Chen <chenhungh@gmail.com> (http://chenhunghan.github.io)",
+  "license": "ISC",
+  "dependencies": {
+    "natural": "^0.5.1"
+  }
+}
